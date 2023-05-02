@@ -1,0 +1,62 @@
+.parent {
+  width: 100%;
+  height: 100vh;
+  background-color: beige;
+  display: flex;
+}
+.b{
+  width: 68%;
+  height: 98%;
+  background-color: aqua;
+  border: 10px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.a{
+  width: 40%;
+  height: 98%;
+  background-color: rgb(55, 55, 164);
+  border: 10px solid black;
+  align-items: center
+}
+.one {
+  width: 27%;
+  height: 80%;
+  background: url(download.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: solid 10px rgb(1, 1, 111);
+  margin: 3%;
+}
+.two {
+  width: 35%;
+  height: 80%;
+  background: url(Mal-1.jpeg);
+  background-size: cover;
+  border: solid 10px rgb(1, 1, 111);
+  margin: 3%;
+}
+.a1{
+  width: 100%;
+  height: 40%;
+  display: flex;
+}
+.a2{
+  width: 100%;
+  height: 60% ;
+}
+.a21 {
+  width: 92%;
+  height: 90%;
+  margin: 2%;
+  border:  15px solid rgb(1, 1, 111);
+  background-color: beige;
+}
+.b1{
+  width:92% ;
+  height: 94% ;
+  background-color: beige;
+  border: 20px solid black;
+}
